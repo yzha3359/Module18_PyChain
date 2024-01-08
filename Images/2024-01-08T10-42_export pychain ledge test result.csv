@@ -1,0 +1,6 @@
+﻿,record,creator_id,prev_hash,timestamp,nonce
+0,Genesis,0,0,10:40:04,0
+1,<class '__main__.Record'>,42,dd21bb42da8693f65b923b4556454219cf7e05620ed27dd150147307ce69db6a,10:40:28,491
+2,<class '__main__.Record'>,42,002309d9377332e69b827f4014ebfa4d242873581b947c7f057351cdcd726bfc,10:40:42,505
+3,<class '__main__.Record'>,42,00efa7dd54373fa22554709c78fa13c0dadd0ba89c08aafe131560af73de2604,10:40:51,300
+4,<class '__main__.Record'>,42,00ba803e0d3b38bb7c4b26db25e49cbc47e8d1b8ba3714f024530c22f78622a0,10:41:01,74
