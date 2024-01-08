@@ -2,7 +2,7 @@
 
 ![alt=""](Images/application-image.png)
 
-You’re a fintech engineer who’s working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+This is aimed to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 You’ll make the following updates to the provided Python file for this assignment, which already contains the basic `PyChain` ledger structure that you created throughout the module:
 
@@ -14,28 +14,6 @@ You’ll make the following updates to the provided Python file for this assignm
 
 4. Test the PyChain Ledger by Storing Records.
 
----
-## Files
-
-Download the following files to help you get started:
-
-[Module 18 Homework files](Starter_Code/pychain.py)
-
----
-
-## Instructions
-
-Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. You’ll use this file to complete the steps for this assignment. Notice that the `PyChain` ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
-
-The steps for this assignment are divided into the following sections:
-
-1. Create a Record Data Class
-
-2. Modify the Existing Block Data Class to Store Record Data
-
-3. Add Relevant User Inputs to the Streamlit Interface
-
-4. Test the PyChain Ledger by Storing Records
 
 ### Step 1: Create a Record Data Class
 
@@ -89,8 +67,7 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
----
-![Alt text](<Step4 Test result.png>)
+![detail a blockchain that consists of multiple blocks](<Images/Step4 Test result.png>)
 
 
-![Alt text](<Step4 Test Validate Chain-1.png>)
+![validity of the blockchain](<Images/Step4 Test Validate Chain.png>)
